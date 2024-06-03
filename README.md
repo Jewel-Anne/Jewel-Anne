@@ -1,11 +1,5 @@
 ###
 
-<div align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJewel-Anne"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJewel-Anne&label=Visitors&labelColor=%23ff0000&countColor=%23d9e3f0&style=flat" /></a>
-</div>
-
-###
-
 <h1 align="center">Hey there 👋 I'm Jewel!</h1>
 
 ###
